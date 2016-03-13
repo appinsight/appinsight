@@ -1,4 +1,4 @@
-# appinsight
+# App Insight
 
 Below are the steps to run the project.
 
